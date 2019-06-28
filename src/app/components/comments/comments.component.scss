@@ -1,0 +1,27 @@
+table {
+    width: 100%;
+  }
+
+.filter-form{
+    .filter-full-width{
+        margin-left: 30px;
+        padding-top: 25px;
+    }
+}
+
+
+.login {
+   margin-bottom: 10px;
+    text-align: left;
+  }
+
+.login-btn {
+     margin-left: 0;
+     margin-right: 10px;
+     margin-top: 15px;
+  
+    ::ng-deep {
+      display: inline-flex;
+      margin-left: 35px;
+    }
+  }
